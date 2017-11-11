@@ -8,8 +8,8 @@
 def verbing(s):
   # +++your code here+++
   return
-#comment added
-
+#comment 1 added
+#comment 2 added
 # E. not_bad
 # Given a string, find the first appearance of the
 # substring 'not' and 'bad'. If the 'bad' follows
